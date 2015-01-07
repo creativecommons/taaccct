@@ -3,7 +3,7 @@ title: OPEN | Exemplary Workforce Training Programs
 email: https://github.com/billymeinke/cc-toolkits
 description: "Profiles of exemplary workforce training programs supported by the U.S. Department of Labor TAACCCT program."
 github_username:  billymeinke
-baseurl: "/open-profiles"
+baseurl: "/taaccct"
 
 # Build settings
 markdown: kramdown
