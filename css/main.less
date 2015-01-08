@@ -284,6 +284,7 @@ h6 {
 
 .blurb {
   color: @gray-light;
+  margin-bottom: 50px;
 }
 
 .btn-primary {
@@ -491,18 +492,55 @@ form .row:first-child .floating-label-form-group {
     width: 215px;
     height: 180px;
     background-position: 0px 5px;
+    margin-bottom: -10px;
     .background-size-retina('../img/icon-laptop.jpg', 215px auto);
+    @media ( min-width: 768px ) {
+      width: 200px;
+      height: 160px;
+      background-position: 0px 5px;
+      margin-bottom: 0px;
+      .background-size-retina('../img/icon-laptop.jpg', 200px auto);
+    }
+    @media ( min-width: 992px ) {
+      width: 215px;
+      height: 180px;
+      background-position: 0px 5px;
+      margin-bottom: 0px;
+      .background-size-retina('../img/icon-laptop.jpg', 215px auto);
+    }
   }
   &.icon-youtube {
     width: 190px;
-    height: 180px;
+    height: 135px;
     background-position: 0px 10px;
     .background-size-retina('../img/icon-youtube.jpg', 190px auto);
+    @media( min-width:768px ) {
+      width: 175px;
+      height: 160px;
+      background-position: 0px 15px;
+      .background-size-retina('../img/icon-youtube.jpg', 175px auto);
+    }
+    @media ( min-width: 992px ) {
+      width: 190px;
+      height: 180px;
+      background-position: 0px 10px;
+      .background-size-retina('../img/icon-youtube.jpg', 190px auto);
+    }
   }
   &.icon-book {
     width: 155px;
-    height: 180px;
+    height: 155px;
     .background-size-retina('../img/icon-book.jpg', 155px auto);
+    @media( min-width:768px ) {
+      width: 140px;
+      height: 160px;
+      .background-size-retina('../img/icon-book.jpg', 140px auto);
+    }
+    @media ( min-width: 992px ) {
+      width: 155px;
+      height: 180px;
+      .background-size-retina('../img/icon-book.jpg', 155px auto);
+    }
   }
 
   &.icon-rabbit {
@@ -585,8 +623,13 @@ header {
 }
 
 header .container {
-  padding-top: 100px;
+  padding-top: 50px;
   padding-bottom: 25px;
+  @media( min-width:768px ) {
+    padding-top: 80px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
 }
 
 header img {
@@ -637,11 +680,6 @@ header .logo-wrapper {
 }
 
 @media(min-width:768px) {
-  header .container {
-    padding-top: 100px;
-    padding-left: 0px;
-    padding-right: 0px;
-  }
 
   header .intro-text .name {
     font-size: 3.75em;
