@@ -8,7 +8,9 @@ project-date: April 2014
 project-name: Virginia RETHINKS Health Science Education 
 institution: Tidewater Community College
 client: Start Bootstrap
-category: Web Development
+categories:
+  - Information Technology
+  - Health
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam facilisis lacus maximus diam finibus imperdiet. Duis nec dolor sit amet tellus ultricies porta. Cras mattis mauris molestie odio convallis, eu laoreet libero condimentum. Quisque porttitor sapien non bibendum aliquet. Fusce venenatis, tellus sed mattis vehicula, arcu lacus aliquet ante, a volutpat nunc tortor a massa. Ut nunc ligula, scelerisque nec eros at, ultrices suscipit augue. 
 
 ---
