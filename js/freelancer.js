@@ -57,3 +57,36 @@ $('.modal').on('hide.bs.modal', function(e) {
  if( hash ) {
    $( hash ).modal('show');
  }
+
+/**
+ *  Project traversing (next and prev)
+ */
+
+// When modal opens, assign project as current.
+jQuery( document ).ready(function( $ ) {
+  if ( hash ) {
+    console.log('a'+hash);
+    $('body').find('a'+hash+'-link').addClass('current');
+  }
+
+  $('.portfolio-link').on('click', function() {
+    $(this).addClass('current');
+  });
+}); // jQuery
+
+// When prev or next is clicked, close current modal...
+$('.next-project').on('click',function() {
+  $('.modal').modal('hide');
+  $('body').find('a.portfolio-link.current').removeClass('current').parent().next().children().addClass('current');
+  $('body').find('a.portfolio-link.current').click();
+});
+
+$('.prev-project').on('click',function() {
+  $('.modal').modal('hide');
+  $('body').find('a.portfolio-link.current').removeClass('current').parent().prev().children().addClass('current');
+  $('body').find('a.portfolio-link.current').click();
+});
+
+
+// Move current attribute
+// Open current modal attribute
