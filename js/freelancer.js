@@ -49,3 +49,11 @@ $('.modal').on('hide.bs.modal', function(e) {
   $(this).addClass('animated fadeInLeftBig');
   setTimeout(2000);
 });
+
+/**
+ * Show modal via url
+ */
+ var hash = window.location.hash;
+ if( hash ) {
+   $( hash ).modal('show');
+ }
