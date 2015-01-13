@@ -48,8 +48,27 @@
                             </div>
 
                             <h4>Synopsis</h4>
-                            <p>{{ post.description }}</p>
-                            <a href="#">Read more</a>
+                            <div class="panel-group" id="accordion" role="tablist" data-toggle="true" aria-multiselectable="true">
+                              {% for section in post.descriptions %}
+                              {% if section.title == "blurb" || section.title == "Blurb" %}
+                              {% else %}
+                              <div class="panel panel-default">
+                                <div class="panel-heading" role="tab" id="heading-{{ forloop.index }}">
+                                  <h4 class="panel-title">
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-{{ forloop.index }}" aria-expanded="true" aria-controls="collapse-{{ forloop.index }}">
+                                      {{ section.title }}
+                                    </a>
+                                  </h4>
+                                </div>
+                                <div id="collapse-{{ forloop.index }}" class="panel-collapse collapse {% if forloop.index == 2 %}in{% endif %}" role="tabpanel" aria-labelledby="heading-{{ forloop.index }}">
+                                  <div class="panel-body">
+                                    {{ section.content }}
+                                  </div>
+                                </div>
+                              </div>
+                              {% endif %}
+                              {% endfor %}
+                            </div><!-- accordion -->
 
                             <h4>Industry Affiliations</h4>
                             <ul class="list-inline item-details categories">
