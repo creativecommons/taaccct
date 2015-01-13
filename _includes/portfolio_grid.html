@@ -19,7 +19,13 @@
                       </div>
                       <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                       <h3 class="subtitle">{{ post.project-name }}</h3>
-                      <p class="blurb">{{ post.description | truncatewords: 15 }}</p>
+                      <p class="blurb">
+                        {% for section in post.descriptions %}
+                          {% if forloop.index == 1 %}
+                            {{ section.content | truncatewords: 15 }}
+                          {% endif %}
+                        {% endfor %}
+                      </p>
                     </a>
                   </div>
               {% endfor %}
