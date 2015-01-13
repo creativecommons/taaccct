@@ -5,12 +5,13 @@ date: 2014-07-18
 img: trac7_drawing.png
 alt: image-alt
 project-date: April 2014
-project-name: Trac-7 Consortium 
+project-name: Trac-7 Consortium
 institution: Washburn University
 client: Start Bootstrap
+oer-repository-link: http://www.doleta.gov/usworkforce/
 categories:
   - Energy Technology
   - Information Technology
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam facilisis lacus maximus diam finibus imperdiet. Duis nec dolor sit amet tellus ultricies porta. Cras mattis mauris molestie odio convallis, eu laoreet libero condimentum. Quisque porttitor sapien non bibendum aliquet. Fusce venenatis, tellus sed mattis vehicula, arcu lacus aliquet ante, a volutpat nunc tortor a massa. Ut nunc ligula, scelerisque nec eros at, ultrices suscipit augue. 
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam facilisis lacus maximus diam finibus imperdiet. Duis nec dolor sit amet tellus ultricies porta. Cras mattis mauris molestie odio convallis, eu laoreet libero condimentum. Quisque porttitor sapien non bibendum aliquet. Fusce venenatis, tellus sed mattis vehicula, arcu lacus aliquet ante, a volutpat nunc tortor a massa. Ut nunc ligula, scelerisque nec eros at, ultrices suscipit augue.
 
 ---

@@ -8,6 +8,7 @@ project-date: April 2014
 project-name: Colorado Online Energy Training Consortium
 institution: Colorado Community Colleges
 client: Start Bootstrap
+oer-repository-link: http://www.doleta.gov/usworkforce/
 categories:
   - Energy Technology
   - Information Technology
