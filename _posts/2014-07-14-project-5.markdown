@@ -3,7 +3,9 @@ layout: default
 modal-id: 5
 date: 2014-07-18
 img: nc_drawing.png
-alt: image-alt
+img-alt: This would be the image title
+img-author: Giulia Forsythe
+img-license: Creative Commons Attribution 4.0 International License.
 project-date: April 2014
 project-name: North Carolina Advanced Manufacturing Alliance
 institution: Robeson Community College
