@@ -10,7 +10,7 @@ project-date: April 2014
 project-name: PAVES
 institution: George C. Wallace State Community College
 client: Start Bootstrap
-oer-repository-link: http://www.doleta.gov/usworkforce/
+oer-repository-link: https://www.skillscommons.org/handle/taaccct/37
 categories:
   - Advanced Manufacturing
   - Transportation

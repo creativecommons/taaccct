@@ -10,7 +10,7 @@ project-date: April 2014
 project-name: North Carolina Advanced Manufacturing Alliance
 institution: Robeson Community College
 client: Start Bootstrap
-oer-repository-link: http://www.doleta.gov/usworkforce/
+oer-repository-link: https://www.skillscommons.org/handle/taaccct/83
 categories:
   - Advanced Manufacturing
 descriptions:

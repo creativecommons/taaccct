@@ -10,7 +10,7 @@ project-date: April 2014
 project-name: Air Washington
 institution: Spokane Community College
 client: Start Bootstrap
-oer-repository-link: http://www.doleta.gov/usworkforce/
+oer-repository-link: https://www.skillscommons.org/handle/taaccct/133
 categories:
   - Transportation
   - Information Technology

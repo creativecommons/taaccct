@@ -10,7 +10,7 @@ project-date: April 2014
 project-name: Virginia RETHINKS Health Science Education
 institution: Tidewater Community College
 client: Start Bootstrap
-oer-repository-link: http://www.doleta.gov/usworkforce/
+oer-repository-link: https://www.skillscommons.org/handle/taaccct/576
 categories:
   - Information Technology
   - Health
