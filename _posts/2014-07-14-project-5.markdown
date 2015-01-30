@@ -13,13 +13,5 @@ client: Start Bootstrap
 oer-repository-link: https://www.skillscommons.org/handle/taaccct/83
 categories:
   - Advanced Manufacturing
-descriptions:
-  - title:    "blurb"
-    content:  "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-  - title:    "Section Title One"
-    content:  "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-  - title:    "Section Title Two"
-    content:  "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-  - title:    "Section Title Three"
-    content:  "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+blurb: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ---

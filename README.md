@@ -20,11 +20,13 @@ To contribute to the build of the site, you will need to install some gems:
 
   2. `$ sudo gem install therubyracer`
 
-  3. `$ cd yourprojectfoldername`
+  3. `$ sudo gem install RedCloth`
 
-  4. `$ jekyll build`
+  4. `$ cd yourprojectfoldername`
 
-  5. `$ jekyll serve`
+  5. `$ jekyll build`
+
+  6. `$ jekyll serve`
 
 =========================================
 

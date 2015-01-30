@@ -847,6 +847,11 @@ footer .footer-below {
   line-height: 1.25;
   min-height: 72px;
 }
+@media ( min-width: 767px ) {
+  #portfolio .portfolio-item .portfolio-link h3.subtitle {
+    min-height: 46px;
+  }
+}
 #portfolio * {
   z-index: 2;
 }
@@ -878,7 +883,7 @@ footer .footer-below {
   color: #a7a7a7;
 }
 .portfolio-modal .modal-content img {
-  margin-bottom: 30px;
+  margin: 0;
 }
 .portfolio-modal .modal-content .item-details {
   margin: 30px 0;
@@ -972,6 +977,7 @@ footer .footer-below {
   text-decoration: inherit;
   padding-right: 5px;
 }
+
 /**
  * Custom Styles
  */
@@ -983,4 +989,38 @@ section#about p.same-height {
   display: block;
   margin: 10px auto 30px;
   height: 56px;
+}
+
+/**
+ * Modal Styles
+ */
+.image-credits {
+  font-size: 14px;
+  text-align: center;
+  padding: 15px 0;
+}
+
+/**
+ * Modal
+ */
+
+/**
+ *  Accordion Styles
+ */
+.panel-group .panel-heading {
+  padding: 0;
+}
+.panel-group .panel-title p {
+  display: none;
+}
+.panel-group .panel-title h1 {
+  font-size: 21px;
+  padding: 10px 15px;
+  margin: 0;
+}
+
+.panel-group .panel-body,
+.panel-group .panel-body p {
+  font-size: 16px;
+  line-height: 1.5;
 }

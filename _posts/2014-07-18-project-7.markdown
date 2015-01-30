@@ -15,17 +15,5 @@ categories:
   - Energy Technology
   - Advanced Manufacturing
   - Information Technology
-descriptions:
-
-  - title:    "blurb"
-    content:  "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-
-  - title:    "Section Title One"
-    content:  "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-
-  - title:    "Section Title Two"
-    content:  "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    
-  - title:    "Section Title Three"
-    content:  "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+blurb: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ---

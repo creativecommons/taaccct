@@ -10,4 +10,4 @@ markdown: kramdown
 permalink: pretty
 
 # Plugins
-gems: ['jekyll-less']
+gems: ['jekyll-less','kramdown']

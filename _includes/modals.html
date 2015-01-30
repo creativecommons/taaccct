@@ -47,28 +47,42 @@
                               </a>
                             </div>
 
-                            <h4>Synopsis</h4>
                             <div class="panel-group" id="accordion" role="tablist" data-toggle="true" aria-multiselectable="true">
-                              {% for section in post.descriptions %}
-                              {% if section.title == "blurb" || section.title == "Blurb" %}
-                              {% else %}
-                              <div class="panel panel-default">
-                                <div class="panel-heading" role="tab" id="heading-{{ forloop.index }}">
-                                  <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse-{{ forloop.index }}" aria-expanded="true" aria-controls="collapse-{{ forloop.index }}">
-                                      {{ section.title }}
-                                    </a>
-                                  </h4>
-                                </div>
-                                <div id="collapse-{{ forloop.index }}" class="panel-collapse collapse {% if forloop.index == 2 %}in{% endif %}" role="tabpanel" aria-labelledby="heading-{{ forloop.index }}">
-                                  <div class="panel-body">
-                                    {{ section.content }}
+
+                              {% assign sections = post.content | split: "[end]" %}
+                              {% for section in sections %}
+                                {% assign even = forloop.index | modulo:2 %}
+                                {% if even != 0 %}
+                                  {% assign attr_title = section | strip_html %}
+                                  {% assign title = section %}
+                                {% else %}
+                                  {% assign cont = section %}
+                                {% endif %}
+                                {% if even == 0 %}
+                                <div class="panel panel-default">
+                                  <div class="panel-heading" role="tab" id="heading-{{forloop.index}}">
+                                    <div class="panel-title">
+                                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse-{{forloop.index}}" aria-expanded="true" aria-controls="collapse-{{forloop.index}}">
+                                        {{ title }}
+                                      </a>
+                                    </div>
+                                  </div>
+                                  {% assign index = forloop.index %}
+                                  {% if index == 2 %}
+                                  <div id="collapse-{{forloop.index}}" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading-{{forloop.index}}">
+                                  {% else %}
+                                  <div id="collapse-{{forloop.index}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading-{{forloop.index}}">
+                                  {% endif %}
+                                    <div class="panel-body">
+                                      {{ cont }}
+                                    </div>
                                   </div>
                                 </div>
-                              </div>
-                              {% endif %}
+                                {% endif %}
                               {% endfor %}
-                            </div><!-- accordion -->
+
+                             </div><!-- accordion -->
+
 
                             <h4>Industry Affiliations</h4>
                             <ul class="list-inline item-details categories">
