@@ -14,5 +14,5 @@ oer-repository-link: https://www.skillscommons.org/handle/taaccct/576
 categories:
   - Information Technology
   - Health
-  blurb: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+blurb: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ---
