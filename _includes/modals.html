@@ -27,7 +27,7 @@
                                   <div class="image-credits">Illustrations by: {{ post.img-author}} | {{post.img-license}}</div>
                                 </div>
                                 <div class="item">
-                                  <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                                  <iframe src="{{ post.video-link }}" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
                                 </div>
                               </div><!-- .carousel-inner -->
 
@@ -39,7 +39,7 @@
 
                             <!-- Carousel controls -->
                             <div class="btn-group">
-                              <a class="btn btn-primary btn-green btn-left" href="#portfolioCarousel-{{ post.modal-id }}" role="button" data-slide-to="0">
+                              <a class="btn btn-primary btn-green btn-left play-video" data-carousel-id="portfolioCarousel-{{ post.modal-id }}" href="#portfolioCarousel-{{ post.modal-id }}" role="button" data-slide-to="1">
                                 <span><i class="fa fa-play-circle"></i> Play Video</span>
                               </a>
                               <a class="btn btn-primary btn-green btn-right" href="{{ post.oer-repository-link }}">

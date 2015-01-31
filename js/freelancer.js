@@ -90,3 +90,11 @@ $('.prev-project').on('click',function() {
 
 // Move current attribute
 // Open current modal attribute
+
+/**
+ * Add play button feature to modals
+ */
+// $('.play-video').each(function(){
+//   var carouselID = $(this).attr('href');
+//   $( carouselID ).find('iframe').click().addClass('asdf');
+// });

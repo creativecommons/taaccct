@@ -874,7 +874,7 @@ footer .footer-below {
   text-align: center;
 }
 .portfolio-modal .modal-content h2 {
-  margin: 0;
+  margin: 39px 0 -17px 0;
   font-size: 2.25em;
 }
 .portfolio-modal .modal-content h3 {
@@ -995,14 +995,30 @@ section#about p.same-height {
  * Modal Styles
  */
 .image-credits {
-  font-size: 14px;
+  font-size: 13px;
   text-align: center;
-  padding: 15px 0;
+  padding: 0;
+  margin: -15px 0 0 0;
 }
 
 /**
- * Modal
+ * Carousel
  */
+.portfolio-modal .modal-content .carousel-indicators {
+  margin-bottom: -46px;
+}
+.portfolio-modal .modal-content .carousel-indicators li.active { background-color: rgb(129, 194, 104); }
+.portfolio-modal .modal-content .carousel-indicators li { border-color: rgb(129, 194, 104); }
+
+.carousel-inner { max-height: 514px; }
+@media ( min-width: 768px ) {
+  /*.carousel-inner {
+    width: 120%;
+    min-width: 120%;
+    margin-left: -10%;
+  }*/
+}
+
 
 /**
  *  Accordion Styles
