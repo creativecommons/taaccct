@@ -221,6 +221,7 @@ h6 {
   text-transform: none;
 }
 .blurb {
+  font-size: 18px;
   color: #a7a7a7;
 }
 .btn-primary {
@@ -411,6 +412,11 @@ form .row:first-child .floating-label-form-group {
   background-size: 250px auto;
   background-repeat: no-repeat;
 }
+.icon-group-sm p {
+  font-size: 18px;
+  margin-top: 18px;
+}
+
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   .icon.logo-primary,
   .logo.logo-primary {
@@ -485,8 +491,9 @@ form .row:first-child .floating-label-form-group {
   width: 175px;
   height: 175px;
   background-image: url(../img/icon-compass.jpg);
-  background-size: 175px auto;
+  background-size: 150px auto;
   background-repeat: no-repeat;
+  background-position: 10px 0;
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
   .icon.icon-compass,
@@ -515,7 +522,7 @@ form .row:first-child .floating-label-form-group {
   width: 175px;
   height: 175px;
   background-image: url(../img/icon-brain.jpg);
-  background-size: 175px auto;
+  background-size: 145px auto;
   background-repeat: no-repeat;
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
@@ -605,7 +612,7 @@ form .row:first-child .floating-label-form-group {
  *
  */
 .green-bar-container {
-  max-width: 350px;
+  max-width: 475px;
   margin: 0 auto 40px;
 }
 .green-bar-container:after {
@@ -755,9 +762,9 @@ section.success {
   color: #fff;
   background: #8DCA73;
 }
-@media (max-width: 767px) {
+@media (min-width: 992px) {
   section {
-    padding: 75px 0;
+    padding: 65px 0;
   }
   section.first {
     padding-top: 75px;
@@ -791,7 +798,8 @@ footer .footer-below {
  */
 #portfolio .portfolio-item {
   right: 0;
-  margin: 0 0 15px;
+  margin: 0 0 25px;
+  max-height: 485px;
 }
 #portfolio .portfolio-item:after {
   content: "";
@@ -845,9 +853,17 @@ footer .footer-below {
   font-size: 19px;
   display: block;
   line-height: 1.25;
-  min-height: 72px;
+  min-height: none;
 }
-@media ( min-width: 767px ) {
+@media ( min-width: 768px ) {
+  #portfolio .portfolio-item {
+    margin: 0 0 15px;
+  }
+  #portfolio .portfolio-item .portfolio-link h3.subtitle {
+    min-height: 72px;
+  }
+}
+@media ( min-width: 992px ) {
   #portfolio .portfolio-item .portfolio-link h3.subtitle {
     min-height: 46px;
   }
@@ -883,7 +899,7 @@ footer .footer-below {
   color: #a7a7a7;
 }
 .portfolio-modal .modal-content img {
-  margin: 0;
+  margin: 0 0 15px;
 }
 .portfolio-modal .modal-content .item-details {
   margin: 30px 0;
@@ -991,6 +1007,10 @@ section#about p.same-height {
   height: 56px;
 }
 
+.about-text p {
+  line-height: 1.7;
+}
+
 /**
  * Modal Styles
  */
@@ -1010,15 +1030,52 @@ section#about p.same-height {
 .portfolio-modal .modal-content .carousel-indicators li.active { background-color: rgb(129, 194, 104); }
 .portfolio-modal .modal-content .carousel-indicators li { border-color: rgb(129, 194, 104); }
 
-.carousel-inner { max-height: 514px; }
-@media ( min-width: 768px ) {
-  /*.carousel-inner {
-    width: 120%;
-    min-width: 120%;
-    margin-left: -10%;
-  }*/
+.carousel-inner .expander {
+  display: block;
+  width: 900px;
+  height: 650px;
+  max-width: 100%;
+  height: auto;
 }
 
+.carousel-inner {
+  /*max-height: 666px;*/
+}
+.carousel-inner .item {
+  /*height: 419px;*/
+}
+.carousel-inner iframe {
+  width: 100%;
+  min-height: 300px;
+}
+
+
+@media ( min-width: 768px ) {
+  .carousel-inner {
+    max-height: 666px;
+  }
+  .carousel-inner .item {
+    height: 419px;
+  }
+  .carousel-inner iframe {
+    width: 555px;
+    height: 100%;
+  }
+}
+
+@media ( min-width: 993px ) {
+  .carousel-inner {
+    max-height: 666px;
+  }
+  .carousel-inner .item {
+    height: 551px;
+  }
+
+  .carousel-inner iframe {
+    width: 738px;
+    height: 100%;
+  }
+}
 
 /**
  *  Accordion Styles
