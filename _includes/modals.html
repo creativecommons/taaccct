@@ -24,7 +24,7 @@
                               <div class="carousel-inner" role="listbox">
                                 <div class="item active">
                                   <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                                  <div class="image-credits">Illustrations by: {{ post.img-author}} | {{post.img-license}}</div>
+                                  <div class="image-credits">Illustrations by: {{ post.img-author}} | <a href="{{ post.img-license-link }}">{{post.img-license}}</a></div>
                                 </div>
                                 <div class="item">
                                   <iframe src="{{ post.video-link }}" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

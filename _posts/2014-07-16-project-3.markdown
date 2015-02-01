@@ -6,6 +6,7 @@ img: trac7_drawing.png
 img-alt: This would be the image title
 img-author: Giulia Forsythe
 img-license: Creative Commons Attribution 4.0 International License.
+img-license-link: http://creativecommons.org/choose/
 project-date: April 2014
 project-name: Trac-7 Consortium
 institution: Washburn University
