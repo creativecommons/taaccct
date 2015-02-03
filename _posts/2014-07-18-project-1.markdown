@@ -14,7 +14,7 @@ institution: Northern Wyoming Community College District
 oer-repository-link: https://www.skillscommons.org/handle/taaccct/893
 categories:
   - Energy Technology
-blurb: Flexing to meet the needs of todays working student
+blurb: Flexing to meet the needs of todays student workers.
 ---
 
 #Overview

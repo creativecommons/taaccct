@@ -7,7 +7,7 @@ img-alt: This would be the image title
 img-author: Giulia Forsythe
 img-license: Creative Commons Attribution 4.0 International License.
 img-license-link: https://creativecommons.org/licenses/by/4.0/
-video-link: https://archive.org/embed/TAACCCTOPENStandoutSTEMConsortium
+video-link: https://archive.org/embed/VA-RETHINKS
 project-date: April 2014
 project-name: Virginia RETHINKS Health Science Education
 institution: Tidewater Community College
@@ -15,7 +15,7 @@ oer-repository-link: https://www.skillscommons.org/handle/taaccct/576
 categories:
   - Information Technology
   - Health
-blurb: Accelerating progress for healthcare students
+blurb: Accelerating progress for students entering Health/IT.
 ---
 #Overview
 [end]

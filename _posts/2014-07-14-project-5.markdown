@@ -7,14 +7,14 @@ img-alt: This would be the image title
 img-author: Giulia Forsythe
 img-license: Creative Commons Attribution 4.0 International License.
 img-license-link: https://creativecommons.org/licenses/by/4.0/
-video-link: https://archive.org/embed/TAACCCTOPENStandoutSTEMConsortium
+video-link: https://archive.org/embed/NCAMA
 project-date: April 2014
 project-name: NCAMA
 institution: Robeson Community College
 oer-repository-link: https://www.skillscommons.org/handle/taaccct/83
 categories:
   - Advanced Manufacturing
-blurb: Training for manufacturing industry challenges
+blurb: Training learners for advabced manufacturing industry challenges.
 ---
 #Overview
 [end]
