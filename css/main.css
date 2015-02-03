@@ -774,8 +774,41 @@ section.success {
 footer {
   color: #fff;
 }
+footer p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+footer strong {
+  font-size: 16px;
+  font-weight: 600;
+}
 footer h3 {
   margin-bottom: 30px;
+}
+footer h4 {
+  font-size: 17px;
+}
+footer hr {
+  margin-bottom: 20px;
+}
+footer ul {
+  margin-bottom: 21px;
+}
+footer a.gates {
+  display: block;
+  position: relative;
+  height: 44px;
+  overflow: hidden;
+  margin-top: -15px;
+  margin-left: 18px;
+}
+footer a.gates img {
+  width: 175px;
+  margin-top: -22px;
+}
+footer img {
+  width: 120px;
+  margin-top: 25px;
 }
 footer .row {
   padding-top: 0px;
