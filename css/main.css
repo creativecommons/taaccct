@@ -720,7 +720,8 @@ header .logo-wrapper .red {
 .navbar .navbar-nav li a:focus {
   outline: 0;
 }
-.navbar-default .navbar-brand:hover {
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
   color: #ffffff;
 }
 .navbar-default .navbar-nav > .active > a,
