@@ -6,14 +6,52 @@ img: va_drawing.png
 img-alt: This would be the image title
 img-author: Giulia Forsythe
 img-license: Creative Commons Attribution 4.0 International License.
-img-license-link: http://creativecommons.org/choose/
+img-license-link: https://creativecommons.org/licenses/by/4.0/
+video-link: https://archive.org/embed/TAACCCTOPENStandoutSTEMConsortium
 project-date: April 2014
 project-name: Virginia RETHINKS Health Science Education
 institution: Tidewater Community College
-client: Start Bootstrap
 oer-repository-link: https://www.skillscommons.org/handle/taaccct/576
 categories:
   - Information Technology
   - Health
-blurb: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+blurb: Accelerating progress for healthcare students
 ---
+#Overview
+[end]
+
+Health educators don’t want to do their work in secret. Instead, their goal is to quickly and inexpensively provide the best information to as many people as possible.
+Providing high-quality, affordable education and career training in the health science professions is a core mission of Tidewater Community College, based in Norfolk, Virginia. Tidewater is the lead institution in a 23-member statewide community college consortium that is working with local hospitals and healthcare firms to make it easier and less expensive for students and unemployed workers to land good jobs that pay family-sustaining wages in healthcare professions.
+[end]
+
+#Open educational resources
+[end]
+
+Virginia’s community college consortium uses the information to find, improve or create free open educational resources (OER) to meet the identified workforce training needs. OER are learning materials that are either in the public domain or which have been released with an intellectual property license that allows their free use and repurposing by others. Increasingly, educators are turning to the creation and continuous improvement of OER as a way to deliver high-quality education at lower cost and promote the professional growth and development of faculty. Participating faculty members get support, recognition and rewards for helping students gain free, permanent access to the instructional materials they need. In many cases, required learning materials such as textbooks, laboratory workbooks, and access to commercial online resources, can cost more than tuition at many community colleges, particularly in scientific and technical disciplines that lead to jobs with high pay.  
+[end]
+
+#Making a difference
+[end]
+
+The Virginia RETHINKS Health Sciences Education project is made possible by a nearly $20 million grant from the U.S. Department of Labor. The funds were made available to applicants who agreed to release all the new intellectual property they created, including courses, lectures, guides, assessments, and any other instruction and learning tools, as OER. The OER requirement ensures that students, including unemployed workers, get access to learning materials for free if created with federal funds. Fortunately for Virginia, when the new federal money was offered, Virginia’s community college system responded with a winning application for the maximum amount available. 
+
+The Virginia community college system’s RETHINK process relies primarily on faculty-led teams. Encouraging higher levels of faculty engagement was part of the commitment to shake things up Virginia Community College System Chancellor Glenn DuBois made six years ago when he launched Vision 2015, an ambitious collaborative planning and reengineering effort. The fresh thinking encouraged by Chancellor DuBois supported Tidewater and its sister colleges as they set a goal many thought audacious: increasing the number of students served from underserved populations by 75 percent and boosting the number of workforce education certificates awarded by 50 percent, mostly by finding new ways to stretch existing resources, support faculty, and encourage a sense of ownership among other stakeholders, including local businesses. 
+
+ “The perspective our faculty offers is critical to the success of this effort,” DuBois said when he launched Vision 2015 six years ago. “That’s why our commitment to them is so strong and will grow stronger over time… We must make a difference.” 
+[end]
+
+#Scaling benefits of OER
+[end]
+
+That difference is now being felt all over Virginia. The health science RETHINK community college network is implementing seven complementary strategies statewide that increase student retention and reduce the time it takes to earn a degree. The strategies include the creation of a new Health Sciences Career Certificate that combines health sciences A.A. degree requirements with practical workforce training verified by local employers as sufficient for immediate employment. Other strategies focus on developing new OER for developmental education to help more students quickly qualify for placement in advanced technical programs, and the development of new open training and certification materials to support evidence-based coaching and counseling methods known to keep more students on track. The consortium’s business partners, who help validate the curriculum and programs, include a who’s who of major healthcare and health sciences employers in the state, such as the Fauquier Health System, Winchester Medical Center, Rappahannock General Hospital, and a dozen others.
+
+“The immense economic scope of this project perfectly suits the mission of community colleges and the Commonwealth of Virginia as a leading choice for employers to build and expand their businesses,” said Tidewater Community College President Deborah M. DiCroce, who now leads the Hampton Roads Community Foundation, when the grant was announced. “This will ultimately benefit all students and any employer who hires a community-college completer,” she said.
+[end]
+
+#TCC Z-Degree program
+[end]
+
+Tidewater’s drive to provide the highest quality accelerated education opportunities at the lowest possible cost is now championed by scores of faculty members, administrators, and its current president, Edna V. Baehre-Kolovani, who co-stars in local television ads that feature Tidewater’s “Start Here, Go Anywhere!” motto. The ads emphasize Virginia’s creation of a seamless conveyer belt that now more affordably leads students and unemployed workers to rewarding careers in healthcare and other professions. A complementary program at Tidewater, its Z-Degree program, has also attracted international attention by using OER to offer students a chance to earn an associate’s degree in business administration with zero textbook costs, which saves each student thousands of dollars.  
+
+“Because of Tidewater’s Z-Degree Program, I did not have to choose between continuing my education and buying braces for my daughter,” says Melissa Hoch, 45, a Tidewater graduate who returned to school after a divorce and is now finishing up her Bachelor’s degree at Old Dominion University.
+[end]

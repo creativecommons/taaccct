@@ -6,15 +6,15 @@ img: wyoming_drawing.png
 img-alt: This would be the image title
 img-author: Giulia Forsythe
 img-license: Creative Commons Attribution 4.0 International License.
-img-license-link: http://creativecommons.org/choose/
-video-link: https://archive.org/embed/OPENTrac-7
+img-license-link: https://creativecommons.org/licenses/by/4.0/
+video-link: https://archive.org/embed/NWCCD
 project-date: April 2014
 project-name: Pathway to Success
 institution: Northern Wyoming Community College District
 oer-repository-link: https://www.skillscommons.org/handle/taaccct/893
 categories:
   - Energy Technology
-blurb: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+blurb: Flexing to meet the needs of todays working student
 ---
 
 #Overview

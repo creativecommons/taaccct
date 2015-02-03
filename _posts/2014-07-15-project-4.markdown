@@ -6,15 +6,43 @@ img: paves_drawing.png
 img-alt: This would be the image title
 img-author: Giulia Forsythe
 img-license: Creative Commons Attribution 4.0 International License.
-img-license-link: http://creativecommons.org/choose/
+img-license-link: https://creativecommons.org/licenses/by/4.0/
+video-link: https://archive.org/embed/TAACCCTOPENStandoutSTEMConsortium
 project-date: April 2014
 project-name: PAVES
 institution: George C. Wallace State Community College
-client: Start Bootstrap
 oer-repository-link: https://www.skillscommons.org/handle/taaccct/37
 categories:
   - Advanced Manufacturing
   - Transportation
   - Health
-blurb: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+blurb: High tech learning and student support
 ---
+#Overview
+[end]
+
+Sometimes, just knowing that someone cares and can help matters most. Making it possible to extend a helping hand to more students is the goal of PAVES, the innovative high-touch, high-tech education and job training consortium that includes Wallace State Community College in Hanceville, Alabama, Wallace State Community College Selma, Central Alabama Community College and the University of Alabama at Birmingham. The project is making dramatic improvements in the way student learning is supported in Alabama, according to program participants. What’s more, like other winners from the same U.S. Department of Labor grant competition, all of the new learning resources produced by PAVES are being released with an intellectual property license that allows their free use and repurposing by others. That makes success much easier to scale. 
+[end]
+
+#Sharing high tech OER
+[end]
+
+“We have quite a lot to share and we are eager to share it,” says Susan Peek, a PAVES program success coach in Hanceville. “But one of the things that’s really different about us,” she says, “is the coaching.” PAVES’ project model places a strong, explicit emphasis on the person-to-person help and support often needed to ensure that investments in the latest educational technologies delivers real results. 
+
+The coaching supports a curriculum that relies on newly developed, highly-sophisticated open digital resources that make learning easier, or at least, much less intimidating. The more high-tech aspects of PAVES (technically, the Partnership for Accelerated Learning through Engagement, Visualization, and Stimulation) will eventually feature more than 140 graphically-rich 3D visualizations and simulations created or planned to address specific program learning objectives. The 3D digital learning resources are being produced by PAVES’ Advanced Visualization Centers to help students learn or demonstrate mastery of subject matter required to earn degrees and certificates in the fields of Advanced Manufacturing, Allied Health, Public Safety and Transportation. In the field of Allied Health, for example, cutting-edge, new simulations and visualizations of the circulatory and neurological systems provide students enhanced opportunities to more fully comprehend complex topics and concepts. 
+
+PAVES’ high-tech approach is also reflected in a new suite of open Prior Learning Assessments (PLAs) that let students quickly receive academic credit for specific accumulated knowledge or experience in cases where what they know or can do is demonstrably equivalent or richer than a directly comparable traditional for-credit course. “I can’t imagine any other institution that would not benefit from prior learning assessments,” says Peek, who notes that in the case of her consortium it was important to develop new open PLA’s that could be easily and freely shared across schools and programs. “If you just leave it to some type of general assessment or don’t have a system for this, there are lots of people who fall through the cracks,” she says. The PLAs are important in part, Peek notes, because studies have shown that when students earn credit for what they already know graduation and program completion rates can double. 
+[end]
+
+#Prior learning assessments (PLA)
+[end]
+
+PLAs are just one part of what is really a comprehensive web of support services that are designed to make sure more students accomplish their educational and job training goals. “Success never happens alone,” PAVES explains in its marketing materials. “Quite often, what we really need is simply the encouragement, discipline and resources to get us to the next level.” PAVES success coaches meet with each program participant at least 30 minutes every two weeks in person or via the Internet. The coaches are available to assist students with all the problems and issues that college students typically confront, from time management to handling financial matters while in school. Some students, particularly those from wealthier socio-economic groups, often get help with common problems like these from parents or other family members.  But for community college students who may be the first in their family to attend college, or whose parents or family may not be in a position to assist, the Success Coaches play a critical role. The PAVES program’s website features a video of students praising the coaching they’ve received and encouraging others to apply.
+[end]
+
+#Benefits
+[end]
+
+Although the program is still in its infancy, PAVES has already shown a modest overall increase in student retention, with about six percent more students returning after the first term than before.  PAVES program leaders expect those numbers to steadily increase as students and coaches create new expectations for one another. And there are already indications more success is ahead. PAVES licensed practical nursing program, for example, did not have a single coached student drop out during the first term, Suzanne Harbin, WSCC’s director of advancement, reported in a story published on the Community College Daily website. “Are there other factors involved?” Harbin asked. “Sure there are, but if you have 100 percent of our students who were coached and were retained, that says a lot,” she told the news site.
+[end]
+

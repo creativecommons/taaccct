@@ -6,13 +6,55 @@ img: nc_drawing.png
 img-alt: This would be the image title
 img-author: Giulia Forsythe
 img-license: Creative Commons Attribution 4.0 International License.
-img-license-link: http://creativecommons.org/choose/
+img-license-link: https://creativecommons.org/licenses/by/4.0/
+video-link: https://archive.org/embed/TAACCCTOPENStandoutSTEMConsortium
 project-date: April 2014
-project-name: North Carolina Advanced Manufacturing Alliance
+project-name: NCAMA
 institution: Robeson Community College
-client: Start Bootstrap
 oer-repository-link: https://www.skillscommons.org/handle/taaccct/83
 categories:
   - Advanced Manufacturing
-blurb: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+blurb: Training for manufacturing industry challenges
 ---
+#Overview
+[end]
+
+The North Carolina Advanced Manufacturing Alliance (NCAMA), organized by Robeson Community College in Lumberton, North Carolina, is doing more than building and improving freely available, high-quality open educational resources that help students and graduates land internships and, better yet, good paying jobs in advanced manufacturing and allied industries. It’s also beginning to answer an important question: what kind of a future does manufacturing have in the U.S., where millions of production jobs disappeared in recent decades? 
+[end]
+
+#Staying ahead of the curve
+[end]
+
+Most U.S. workers won’t work for the low wages prevalent in the global manufacturing sector, which has largely migrated overseas. But as good-paying unskilled production jobs continue to vanish in the U.S., a new class of often higher-paying jobs in advanced manufacturing is beginning to emerge. In those settings, where machines or robots do most if not all of the tedious labor, the relatively small number of production workers who remain must often possess skills far more advanced than was common for production workers just a decade ago. What’s more, the specific skills required in advanced manufacturing facilities often change very quickly both within and across industries. Workers able to stay ahead of that learning curve can earn premium wages. However, the new ways products are produced also pose new challenges for public education and workforce training systems, and frequently require them to improvise new job-training programs on the fly to match rapidly shifting market and employer demands. 
+
+Meeting these complex and interrelated needs for students, job-seekers, workers and firms, and ensuring a sustainable future for advanced manufacturing in North Carolina, is the goal of the NCAMA’s ten partner community college alliance, which includes Beaufort County, Craven, Fayetteville Technical, Nash, Edgecomb, Davidson County, Surry, Haywood and Asheville-Buncombe community colleges, along with many of the region’s leading employers, such as Campbell Soup Supply Company, Potash Corporation, and Carver Machine Works. The Alliance’s mission: reach out to dislocated workers, students, and employed workers who want to move up the wage scale, and help those individuals gain the skills and educational certificates they need in ways that fit with their schedules, family situations, and previous levels of education, experience and training.
+
+“My greatest challenge while pursuing my degree is balancing school, work, and family,” a computer-integrated machining student at Fayetteville Technical Community College, Loren Kimmel, recently told blogger Tiffany Alford.  Time and extra money are in short supply for students such as Kimmel.   
+“[We are] equipping them on an accelerated basis with the skill sets that our industry partners say they need to be employed in those industries,” says DeRay Cole, a veteran manufacturing executive in Lumberton, North Carolina, who thought he had retired but returned to work to serve as NCAMA’s founding Project Manager.  
+[end]
+
+#Preparation for job placement
+[end]
+
+The number of new advanced manufacturing jobs in the parts of North Carolina served by Alliance member community colleges is, at least initially, still small as measured against the total number of unemployed workers in those areas. What’s more important, says Cole, is the fact the Alliance is helping students land those good jobs as they become available, and attract still more employers, while also helping others build skills and earn certificates and credits related to advanced manufacturing that are directly applicable to a wide range of industries. “We’re training machinists, electricians, industrial systems [specialists], food [science], mechanical, health care,” notes Cole. The focus on advanced manufacturing, he says, “cuts across all industries that are out there.” 
+
+There is at least some anecdotal evidence that the promise of a more highly skilled local workforce is generating forward momentum for the regional economy. In October 2014, for example, GE’s Aviation Division cut the ribbon on its new aerospace composites division in Asheville, North Carolina. The new factory is expected to eventually employ nearly 350 workers; it will be the first facility in the world to mass produce engine components made of advanced ceramic matrix composite (CMC) materials, according to GE.
+[end]
+
+#OER built with industry partners
+[end]
+
+Because the Alliance was founded with nearly $19 million in start up funds from the U.S. Department of Labor’s innovative federal job training initiative known as TAACCCT, all of the new curriculum produced to support NCAMA’s advanced manufacturing job training, certificate and degree programs is being released under a Creative Commons BY license, which permits the free use and continuous improvement and adaptation of the learning resources by anyone else, with proper attribution. The freely available learning resources produced to date include more than 30 open courses and applications, labs, lectures, tutorials and other resources, providing practical building blocks which can be assembled into cutting-edge advanced manufacturing educational and career pathways, as well as integrated into on-the-job professional training.  
+
+At least one NCAMA industry partner, Campbell Soup, has already adapted one of the first NCAMA open educational resources developed -- an open micrometer application created by Davidson County Community College -- and integrated it into its training module for maintenance personnel. 
+
+The open educational resources requirement attached to the federal funds that were used to start up the Alliance is critical, says Project Manager DeRay Cole. “Being able to access [advanced manufacturing] curriculum 24/7 is important to our students,” he says. “It’s also important from an economical standpoint. Many of our students can’t afford to buy textbooks and without textbooks they are unable to achieve success. With the open learning curriculum they have access to the information without having to be concerned about “how do I pay for it?”  
+[end]
+
+#Careers
+[end]
+
+NCAMA programs also feature “Success Managers” who help students customize coursework to guide them toward more rapid employment in targeted industries, a process that is also facilitated by an open Human Resources Development (HRD) module, which can likewise be adopted and adapted for free use by any other school. The open HRD module was developed to meet industry partner requests for tracking and documentation of skills acquisition, including so-called “soft skills” such as appropriate behavior in the workplace, collaboration, and project presentation.  
+
+All of the open advanced manufacturing curriculum, modules, courses and other learning materials produced by NCAMA are initially being made available online via Apple’s iTunes University, in accordance with NCAMA members pledge to provide access to the resources as quickly and easily as possible. The same open digital learning resources are also being released as they are finalized for public distribution at the website designated by the U.S. Department of Labor as the official repository for federally funded open TAACCCT job-training learning resources, www.skillscommons.org.
+[end]

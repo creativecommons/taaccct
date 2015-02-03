@@ -6,14 +6,51 @@ img: coetc_drawing.png
 img-alt: This would be the image title
 img-author: Giulia Forsythe
 img-license: Creative Commons Attribution 4.0 International License.
-img-license-link: http://creativecommons.org/choose/
+img-license-link: https://creativecommons.org/licenses/by/4.0/
+video-link: https://archive.org/embed/COETC
 project-date: April 2014
 project-name: Colorado Online Energy Training Consortium
 institution: Colorado Community Colleges
-client: Start Bootstrap
 oer-repository-link: https://www.skillscommons.org/handle/taaccct/41
 categories:
   - Energy Technology
   - Information Technology
-blurb: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+blurb: Supporting career training for rapidly changing fields.
 ---
+#Overview
+[end]
+
+The Colorado Online Energy Training Consortium may be the most important news story most Colorado residents have never read.  A Google search, for example, fails to turn up a single article about the consortium. This is remarkable because by any traditional measure the consortium is worthy of attention. After all, it is enabling the single largest expansion in access to affordable, high-quality education and job training opportunities in Colorado since the state first organized its community colleges into a system almost 70 years ago.
+
+The consortium, which includes 14 participating Colorado community colleges, has released 270 free online courses, including lessons, lectures, and labs to more rapidly and inexpensively prepare students and unemployed workers for jobs that pay family-sustaining wages in Colorado’s multifaceted energy sector. The courses were produced with funds provided by the U.S. Department of Labor as part of a national effort to revitalize community college education and job training programs. The goal of the federal program is to create tighter links between community colleges and local labor markets and employers, and to produce open educational resources that students can access at no cost while they are working to earn the educational credentials required to qualify for good jobs.
+[end]
+
+#Innovation through OER
+[end]
+
+“To be able to provide career skills and training to our local residents and for our regional businesses is a tremendous boon to the future of the industry itself and to the local economy,” said Lee McMains, an Applied Environmental Technology instructor at Aims Community College, in Greely, Colorado, in a statement released by his college.
+
+Open educational resources (OER) are materials that have an impact on teaching and learning, such as textbooks, that are in the public domain or have been released with an intellectual property license that allows their free use and repurposing by others. Colorado’s Online Energy Training Consortium (COETC) recently received $17.2 million dollars to help its residents plug into the energy economy. The grant is one of three investments of similar size recently awarded to networks of community college campuses in the state through the same federal funding mechanism, each targeting different industries. The funds support change and innovation, including through the use of OER, which reduces or eliminates the financial burden imposed on students created by high textbook costs, particularly in specialized technical disciplines.  
+[end]
+
+#Preparation for changing fields
+[end]
+
+COETC may not yet be a household name in Colorado for a very good reason.  Unlike some other states, which set up and marketed entirely new, attention-getting programs with their share of funds from the same federal bucket, Colorado instead elected to strengthen and improve its existing job training programs and share more of them freely online. The course and program redesign effort was guided by the findings of an exhaustive, 18-month faculty engagement process that identified areas of the curriculum ripe for improvement. Weak curriculum offerings were eliminated or modernized including by making more of the necessary learning resources for each class available online as OER.
+
+“One focus has been on transforming our energy sector education and job training programs,” says project director Pete Lindstrom, who notes that Colorado’s energy economy is substantial and diverse, including renewable sources such as wind and solar and more traditional oil and gas fossil fuels, as well as related processing technologies. “One of our goals was to make our programs and certificates applicable to any type of energy,” says Lindstrom. “Our students need a well-rounded education. It’s not enough for us to just concentrate on any one,” energy type in a program. “And they also need to be able to earn stackable credentials so they can quickly get some training, get a job, and continue their education.” 
+[end]
+
+#Accelerating developmental education
+[end]
+
+A second aspect of the consortium’s work involved redesigning the state’s developmental education programs, which experience and research indicated was a dead-end for many students. Before the program was redesigned, community college students in Colorado often spent as many as four semesters in non-credit developmental math courses and three semesters trying to move past developmental English instruction.  Both classes are supposed to prepare students for college level work.  Instead, in a scenario playing out on many other community college campuses, Colorado’s developmental education courses often taught students exactly the wrong lesson, namely, that college was not for them. “We’ve redesigned the developmental education program so more students move on after just one term,” Lindstrom says. The work drew on findings of a Colorado state task force that had identified key reforms needed to enable accelerated developmental progress, such as integrating developmental education assistance on an as-needed basis into more substantive for-credit coursework. “It’s turning into a big success for us,” says Lindstrom.
+[end]
+
+#Opening careers
+[end]
+
+But the biggest success may be the most obvious one.  The early results, based on a scan of COETC courses already online, shows that students in Colorado using these courses are now saving between 20 and 80 percent of the costs of learning materials they would have previously had to purchase, and in some cases, the new courses are entirely OER-based, which fully eliminates that expense. The savings allow students to use more of their limited personal resources or financial aid on necessary items such as rent, transportation, child care, food -- and to pay utility bills to the industry many of them hope to join.
+
+Strengthening developmental education and job training programs offered by Colorado’s community colleges in the energy sector has proven worthwhile, says Lindstrom, who adds that funding the use, development and continuous improvement of OER is a “transformative” investment that will generate benefits far into the future. “We are able to share the OER out there with the world and we can also use the free material that others are sharing so we can gather more information about what is happening outside Colorado,” he says. “Our workers need to be able to move throughout the country in order to be able to continue to develop their careers and skills. Having our materials be open and being able to access the open learning materials available elsewhere is just invaluable.”  
+[end]

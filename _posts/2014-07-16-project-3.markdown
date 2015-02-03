@@ -6,14 +6,43 @@ img: trac7_drawing.png
 img-alt: This would be the image title
 img-author: Giulia Forsythe
 img-license: Creative Commons Attribution 4.0 International License.
-img-license-link: http://creativecommons.org/choose/
+img-license-link: https://creativecommons.org/licenses/by/4.0/
+video-link: https://archive.org/embed/TAACCCTOPENStandoutSTEMConsortium
 project-date: April 2014
 project-name: Trac-7 Consortium
 institution: Washburn University
-client: Start Bootstrap
 oer-repository-link: https://www.skillscommons.org/handle/taaccct/39
 categories:
   - Energy Technology
   - Information Technology
-blurb: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+blurb: Skilling up the placebound learner
 ---
+#Overview
+[end]
+
+Being open is one of the best ways to break down barriers. That’s a key takeaway from TRAC-7, the nationally-recognized consortium of seven community colleges and technical schools led by Washburn University/Washburn Institute of Technology, based in Topeka, Kansas. TRAC-7 provides affordable, high-quality job training and education programs using a newly devised combination of technology, online education and custom mobile labs. One special aspect of the innovative new program: all the intellectual property created during the nearly $20 million, federally-funded TRAC-7 effort carries an intellectual property license that allows its free use and repurposing by others.  “By putting it all out there as open educational resources we are creating a ripple effect,” says Brenda Edleston, a TRAC-7 program leader and Associate Vice President for the Geary County Campus. “The impact is multiplied so other institutions can benefit from what we have accomplished.”
+[end]
+
+#Reaching the placebound worker
+[end]
+
+Like many rural states, Kansas is uniquely beautiful. It also has an equal distribution of talented, hard-working people in every region, no matter how remote, and an uneven distribution of high-quality education and job training opportunities. In that sense, Kansas is a microcosm: The same mismatch plagues much of the world. Fresh approaches to closing opportunity gaps are urgently needed, say experts. Not surprisingly, TRAC-7’s model is attracting attention.
+ “TRAC-7 is making changes in the way Kansas approaches education,” says Edleston. For decades, she notes, leaders in Kansas have worked to provide the best possible education and job-training to residents of rural communities, such as Cloud County, which has a population less than 6,000. Local educators have proposed a myriad of plans; usually, the only thing missing was money. So when a new federal funding opportunity came along that would increase rural student access to job training, certificates and degrees valued in the marketplace, the TRAC-7 team quickly assembled and jumped on it. 
+
+“Adult learners are place-bound,” says Edleston. “They will move for a job but they can’t move for a year of training or education.” TRAC-7’s solution: after students do as much work as they can online, “We take the program to them.” Mobile labs custom-designed by the TRAC-7 team now roam Kansas, parking wherever they can find eager students and electricity.  Rural students in technical and scientific fields now get the same hands-on, lab-based learning experiences, and earn the same college credits that were traditionally available only in larger, more centralized urban college settings. The program reaches students whose family commitments or other responsibilities can make travel difficult or even impossible. “We’re crossing over barriers that have traditionally been there,” says Edelston. She adds that TRAC-7’s development and use of open educational resources also helps break down barriers between different education and job training programs within the consortium, including by identifying common curricular needs that can be met through collaboration.  
+[end]
+
+#Partnerships
+[end]
+
+TRAC-7 has opened up a wide range of new degree, certificate and job-training opportunities to residents of Kansas in higher-wage industries, with the ability to participate now determined by interest, not geography. The programs include Advanced Systems Technology, Agri-Biotechnology, Environmental Technology, Electrical Power Technician, Food Science, Risk Management and Power Plant Technology. Open educational resources including curriculum and learning resources are being created for each of these programs. There is even an open floor plan available for a science lab with a detailed supply list so others thinking about starting similar programs will know where to begin.  
+
+Early results from the TRAC-7 partnership are encouraging, with employed program graduates finding jobs with annual average salaries in the range of $40,000. The best outcome, though, is new hope for a population that has often been left behind when new breakthroughs occur, particularly in education. With better solutions emerging that use open educational resources, leaders in Kansas are eager to share their success stories – and in particular the power of open collaboration – with others.
+
+#Standing out with OER
+[end]
+
+That may be one reason TRAC-7 and Washburn University recently emerged as the host and sponsor of a national annual gathering that began small but now attracts hundreds of recipients of similar federal grants from virtually every state.  The federal job training grant winners make an annual pilgrimage to Topeka to swap stories, share resources and collaborate across borders and consortia.  At the first event, conference participants and the public toured mobile classrooms and learned how TRAC-7 consortium projects shared materials and resources across the curriculum, according to a report published by conference organizer Connie Woodard. Even greater numbers of attendees participated the second year; a block of hundreds of pre-reserved hotel rooms quickly sold out weeks before the event. 
+
+“TRAC-7 has emerged as a national leader in promoting collaboration through the use of open educational resources,” says Cable Green, the Director of Global Learning for Creative Commons, a non-profit organization that provides open licenses and promotes their use to enable collaborative progress in education, science, culture and the arts. “It’s rare when a new organization starts an event that so many educators immediately want to attend. It’s a sure sign that something very important is beginning to happen in Kansas.”
+[end]

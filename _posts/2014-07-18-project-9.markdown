@@ -6,14 +6,54 @@ img: airwashington_drawing.png
 img-alt: This would be the image title
 img-author: Giulia Forsythe
 img-license: Creative Commons Attribution 4.0 International License.
-img-license-link: http://creativecommons.org/choose/
+img-license-link: https://creativecommons.org/licenses/by/4.0/
+video-link: https://archive.org/embed/TAACCCTOPENStandoutSTEMConsortium
 project-date: April 2014
 project-name: Air Washington
 institution: Spokane Community College
-client: Start Bootstrap
 oer-repository-link: https://www.skillscommons.org/handle/taaccct/133
 categories:
   - Transportation
   - Information Technology
-blurb: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+blurb: Transforming training for aerospace careers.
 ---
+#Overview
+[end]
+
+Students, unemployed workers, and employees seeking promotions and higher pay in the Pacific Northwest now have a new path to success in the region’s burgeoning aerospace industry: Air Washington, an 11-member community college consortium. The consortium helps local employers find, educate and train the workers needed to meet global demand for the world’s most sophisticated, modern airplanes and related avionics tools, technologies, equipment and services. The collaborative effort, which offers credit, non-credit, degree and certificate programs, is critically important to the economy of Washington state now and into the future, say its dozens of backers and participants, which in addition to community colleges also include leading area manufacturers, unions and the local workforce training system.
+
+But as important as these efforts are to the local economy, they are even more important to graduating students and workers such as Ardee Ableman, a Spokane Community College (SCC) Electrical Maintenance and Automation program graduate. Ableman credits an Air Washington program for helping him stay abreast of the skills he needs to remain competitive in a fast-changing occupation. “You need a lot of training to enter this field,” says Ableman, an Electrical Inspector for the City of Spokane, in a testimonial that appears on the SCC website, “and you need to continually upgrade and update your skills and knowledge."
+[end]
+
+#
+[end]
+
+The Air Washington consortium’s offerings are exciting for several reasons, says program director Carol Weigand. For starters, the consortium includes many of the best known regional aerospace players, such as The Boeing Company, Absolute Aviation, Janicki Industries, and Angeles Composites Technology, Inc., as well as the International Association of Machinists and Aerospace Workers (AIM) Union, Locals 751 and 160. The major employers, many other smaller firms, and unions all came together with a single, unified purpose: to prepare a workforce that can make sure the future of aviation happens in the state of Washington.  Overall, Washington has roughly 1400 aerospace firms.
+
+Air Washington’s industry and union partners came to the table to share and define current and future workforce needs. That led the consortium to focus on preparing students for jobs in growing industry segments, including advanced manufacturing/composites, electronic/avionics, aircraft assembly and aircraft maintenance. These positions typically pay skilled workers family-sustaining wages that rise over time. 
+[end]
+
+#Student excitement
+[end]
+
+“Students are also excited because these programs are less expensive,” says Weigand, who notes that many formerly significant costs for items such as textbooks and other learning materials have been eliminated or substantially reduced in Air Washington programs through the use of free, open educational resources, in accordance with the requirements of the $20 million federal grant that got the Air Washington consortium off the ground. The federal requirement that newly produced federally-funded curriculum be open and free is designed to ensure that students have access to the best possible learning materials at the lowest possible costs, promote instructor engagement in improving the materials, and also enable the free, open learning materials to be improved, customized and adapted over time to meet different needs.
+
+One example: Air Washington has produced a free, open Aviation Vocabulary Dictionary specifically designed for students for whom English is a second language. “Aerospace has its own language,” notes Weigand. Non-native workers can sometimes feel locked out of those networks, she says, especially if they don’t know the lexicon. “We have this immigrant community and they are hard workers and many of them want to go to work but they don’t understand aerospace or the language. So helping them understand the language is a nice on-ramp,” she says.
+[end]
+
+#Widespread benefits to the state
+[end]
+
+The consortium has also produced a free, open math instruction resources textbook that helps students prepare themselves for successful entrance into Air Washington’s more technically complicated programs. More advanced open coursework includes instruction in blueprint reading, quality management systems, applied math, computer assisted design and drafting, aviation maintenance, workplace preparation and occupational safety and health training, among others. Some programs, such as machining and computer numerical control (CNC Technology) also offer job placement services as part of the final quarter of study.
+
+The U.S. aerospace industry is one of the bright spots for U.S. workers.  Overall, the industry posted export sales of $118.5 billion in 2012, according to the U.S. Department of Commerce, which translated into a positive trade balance of $70.5 billion, the largest trade surplus of any U.S.-based manufacturing industry.  What’s more, in the same year, 64.3 percent of all U.S. aerospace sales were made to customers outside the U.S. The industry directly employs about 500,000 workers in scientific and technical jobs across the nation and supports another 700,000 or so jobs in related fields. Over the next 20 years, the aerospace industry is expected to sell approximately 34,000 new large commercial airplanes, with a total value of roughly $4.5 trillion.
+[end]
+
+#Open education supporting a community
+[end]
+
+Air Washington’s creation and use of free, open educational resources supports the healthy industry growth rates needed, says Weigand. “It helps the whole aerospace industry across the state,” she says. “The more information that is out there about aerospace industry workforce training and development, it strengthens the whole industry, and it strengthens the economy of the Northwest.” The progress also makes it possible for more students to affordably earn industry recognized certifications that are required by aerospace employers both in and outside the U.S., such as the European Aviation Safety Agency’s B-1 certification, in addition to the domestic U.S. Federal Aviation Administration’s Airframe and Power Plant (A&P) certification.
+
+There are some early indications that the strategy is working, and at altitudes that were never anticipated. In January 2015, SpaceX, the commercial space start-up company founded by Tesla auto creator Elon Musk, announced it would soon open a new facility in Seattle to be closer to the local workforce and its world-class, increasingly open training resources. “There’s a huge amount of talent in the Seattle area, and a lot of you, it seems, don’t want to move to L.A.,” Musk said in remarks recently reported by The Seattle Times. Instead, the jobs are coming to them.  
+Which makes sense. Why would anyone want to move when they live in a community that is creating free, high quality open educational resources designed to help companies and workers prosper together?  
+[end]
