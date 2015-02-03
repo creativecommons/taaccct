@@ -47,7 +47,9 @@
                               </a>
                             </div>
 
-                            <div class="panel-group" id="accordion" role="tablist" data-toggle="true" aria-multiselectable="true">
+                            {% assign sectionPrefix = post.title | slice: 0, 11 | downcase | replace: ' ', '' %}
+
+                            <div class="panel-group" id="{{sectionPrefix}}" role="tablist" data-toggle="true" aria-multiselectable="true">
 
                               {% assign sections = post.content | split: "[end]" %}
                               {% for section in sections %}
@@ -60,18 +62,18 @@
                                 {% endif %}
                                 {% if even == 0 %}
                                 <div class="panel panel-default">
-                                  <div class="panel-heading" role="tab" id="heading-{{forloop.index}}">
+                                  <div class="panel-heading" role="tab" id="heading-{{sectionPrefix}}-{{forloop.index}}">
                                     <div class="panel-title">
-                                      <a data-toggle="collapse" data-parent="#accordion" href="#collapse-{{forloop.index}}" aria-expanded="true" aria-controls="collapse-{{forloop.index}}">
+                                      <a data-toggle="collapse" data-parent="#{{sectionPrefix}}" href="#collapse-{{sectionPrefix}}-{{forloop.index}}" aria-expanded="true" aria-controls="collapse-{{sectionPrefix}}-{{forloop.index}}">
                                         {{ title }}
                                       </a>
                                     </div>
                                   </div>
                                   {% assign index = forloop.index %}
                                   {% if index == 2 %}
-                                  <div id="collapse-{{forloop.index}}" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading-{{forloop.index}}">
+                                  <div id="collapse-{{sectionPrefix}}-{{forloop.index}}" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading-{{forloop.index}}">
                                   {% else %}
-                                  <div id="collapse-{{forloop.index}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading-{{forloop.index}}">
+                                  <div id="collapse-{{sectionPrefix}}-{{forloop.index}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading-{{forloop.index}}">
                                   {% endif %}
                                     <div class="panel-body">
                                       {{ cont }}
