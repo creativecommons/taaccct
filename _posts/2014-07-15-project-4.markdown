@@ -21,7 +21,7 @@ blurb: High tech learning and support for student success.
 #Overview
 [end]
 
-Sometimes, just knowing that someone cares and can help matters most. Making it possible to extend a helping hand to more students is the goal of PAVES, the innovative high-touch, high-tech education and job training consortium that includes Wallace State Community College in Hanceville, Alabama, Wallace State Community College Selma, Central Alabama Community College and the University of Alabama at Birmingham. The project is making dramatic improvements in the way student learning is supported in Alabama, according to program participants. What’s more, like other winners from the same U.S. Department of Labor grant competition, all of the new learning resources produced by PAVES are being released with an intellectual property license that allows their free use and repurposing by others. That makes success much easier to scale. 
+Sometimes, just knowing that someone cares and can help matters most. Making it possible to extend a helping hand to more students is the goal of PAVES, the innovative high-touch, high-tech education and job training consortium that includes Wallace State Community College-Hanceville, Wallace State Community College-Selma, and Central Alabama Community College. The project is making dramatic improvements in the way student learning is supported in Alabama, according to program participants. What’s more, like other winners from the same U.S. Department of Labor grant competition, all of the new learning resources produced by PAVES are being released with an intellectual property license that allows their free use and repurposing by others. That makes success much easier to scale. 
 [end]
 
 #Sharing high tech OER
