@@ -4,6 +4,15 @@ This is a Jekyll-based site supporting a set of profiles on standout projects in
 
 For more information about OPEN and our role in the TAACCCT program, please see http://www.open4us.org.
 
+## Who's working on it at Creative Commons?
+
+| Role  | Person |
+| ------------- | ------------- |
+| Driver  | [Paul Stacey](https://github.com/pgstacey)  |
+| Accountable  |   |
+| Consulted | Add yourselves here |
+| Informed | Add yourselves here |
+
 ### Viewing This Site
 
 To view this site, simply clone the repository to your local machine!
