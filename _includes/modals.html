@@ -27,7 +27,11 @@
                                   <div class="image-credits">Illustrations by: {{ post.img-author}} | <a href="{{ post.img-license-link }}">{{post.img-license}}</a></div>
                                 </div>
                                 <div class="item">
-                                  <iframe src="{{ post.video-link }}" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+				  <video controls>
+				    <source src="{{ post.webm-link }}" type='video/webm;codecs="vp8, vorbis"'/>
+				    <source src="{{ post.video-link }}" type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
+				    Your browser does not support the HTML5 video tag. You can <a href="{{ post.video-link }}">download a copy of the video</a>.
+				  </video>
                                 </div>
                               </div><!-- .carousel-inner -->
 
