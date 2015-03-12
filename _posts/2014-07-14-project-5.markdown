@@ -7,7 +7,7 @@ img-alt: This would be the image title
 img-author: Giulia Forsythe
 img-license: Creative Commons Attribution 4.0 International License.
 img-license-link: https://creativecommons.org/licenses/by/4.0/
-video-link: https://ia601500.us.archive.org/5/items/NCAMA/NCAMA-final.mp4
+mp4-link: https://ia601500.us.archive.org/5/items/NCAMA/NCAMA-final.mp4
 webm-link: https://ia601500.us.archive.org/23/items/NCAMAFinal.webmsd_201503/NCAMA-final.webmsd.webm
 project-date: April 2014
 project-name: NCAMA
