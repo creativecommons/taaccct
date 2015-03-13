@@ -7,8 +7,8 @@ img-alt: This would be the image title
 img-author: Giulia Forsythe
 img-license: Creative Commons Attribution 4.0 International License.
 img-license-link: https://creativecommons.org/licenses/by/4.0/
-video-link: https://ia802602.us.archive.org/22/items/NWCCD/Wyoming-Mining-final.mp4
-webm-link: https://archive.org/embed/WyomingMiningFinal.webmsd
+video-link: https://ia601505.us.archive.org/10/items/WyomingMiningFinal2/Wyoming-Mining-final2.mp4
+webm-link: https://ia801500.us.archive.org/32/items/WyomingMiningFinal.webmsd/Wyoming-Mining-final.webmsd.webm
 project-date: April 2014
 project-name: Pathway to Success
 institution: Northern Wyoming Community College District
