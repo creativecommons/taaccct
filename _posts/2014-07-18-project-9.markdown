@@ -7,7 +7,8 @@ img-alt: This would be the image title
 img-author: Giulia Forsythe
 img-license: Creative Commons Attribution 4.0 International License.
 img-license-link: https://creativecommons.org/licenses/by/4.0/
-video-link: https://archive.org/embed/AirWashington
+video-link: https://ia601506.us.archive.org/26/items/AirWashingtonFinal2/Air-Washington-final2.mp4
+webm-link: https://ia801503.us.archive.org/2/items/AirWashingtonFinal.webmsd/Air-Washington-final.webmsd.webm
 project-date: April 2014
 project-name: Air Washington
 institution: Spokane Community College
