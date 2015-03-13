@@ -7,7 +7,8 @@ img-alt: This would be the image title
 img-author: Giulia Forsythe
 img-license: Creative Commons Attribution 4.0 International License.
 img-license-link: https://creativecommons.org/licenses/by/4.0/
-video-link: https://archive.org/embed/PAVES
+video-link: https://ia801504.us.archive.org/15/items/PAVESFinal2/PAVES-final2.mp4
+webm-link: https://ia601501.us.archive.org/19/items/PAVESFinal.webmsd/PAVES-final.webmsd.webm
 project-date: April 2014
 project-name: PAVES
 institution: George C. Wallace State Community College
