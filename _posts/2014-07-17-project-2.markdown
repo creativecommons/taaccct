@@ -7,7 +7,8 @@ img-alt: This would be the image title
 img-author: Giulia Forsythe
 img-license: Creative Commons Attribution 4.0 International License.
 img-license-link: https://creativecommons.org/licenses/by/4.0/
-video-link: https://archive.org/embed/VA-RETHINKS
+video-link: https://ia601501.us.archive.org/8/items/VARETHINKSFinal2/VA-RETHINKS-final2.mp4
+webm-link: https://ia801505.us.archive.org/9/items/VARETHINKSFinal.webmsd/VA-RETHINKS-final.webmsd.webm
 project-date: April 2014
 project-name: Virginia RETHINKS Health Science Education
 institution: Tidewater Community College
