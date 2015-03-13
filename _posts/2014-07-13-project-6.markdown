@@ -7,7 +7,7 @@ img-alt: This would be the image title
 img-author: Giulia Forsythe
 img-license: Creative Commons Attribution 4.0 International License.
 img-license-link: https://creativecommons.org/licenses/by/4.0/
-video-link: https://archive.org/embed/NISGTCFinaledit
+video-link: https://archive.org/details/NISGTCFinaledit2
 project-date: April 2014
 project-name: NISGTC
 institution: Collin County Community College District
