@@ -7,7 +7,8 @@ img-alt: This would be the image title
 img-author: Giulia Forsythe
 img-license: Creative Commons Attribution 4.0 International License.
 img-license-link: https://creativecommons.org/licenses/by/4.0/
-video-link: https://archive.org/embed/TAACCCTOPENStandoutSTEMConsortium
+video-link: https://ia601500.us.archive.org/1/items/STEMFinal2/STEM-final2.mp4
+webm-link: https://ia801504.us.archive.org/20/items/STEMFinal.webmsd/STEM-final.webmsd.webm
 project-date: April 2014
 project-name: National STEM Consortium
 institution: Anne Arundel Community College
