@@ -1,19 +1,10 @@
 # TAACCCT
 
-This is a Jekyll-based site supporting a set of profiles on standout projects in the U.S. DOL TAACCCT workforce training program, supporting by OPEN.
+This is a Jekyll-based site supporting a set of profiles on standout projects in the U.S. DOL TAACCCT workforce training program, supporting by OPEN. The site is hosted at <http://profiles.open4us.org/taaccct/>.
 
 For more information about OPEN and our role in the TAACCCT program, please see http://www.open4us.org.
 
-## Who's working on it at Creative Commons?
-
-| Role  | Person |
-| ------------- | ------------- |
-| Driver  | [Paul Stacey](https://github.com/pgstacey)  |
-| Accountable  |   |
-| Consulted | [Matt Lee](https://github.com/mattl) |
-| Informed | Add yourselves here |
-
-### Viewing This Site
+## Viewing This Site
 
 To view this site, simply clone the repository to your local machine!
 
@@ -21,7 +12,7 @@ To view this site, simply clone the repository to your local machine!
 
   2. `$ jekyll serve`
 
-### Developers
+## Developers
 
 To contribute to the build of the site, you will need to install some gems:
 
