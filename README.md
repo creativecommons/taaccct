@@ -2,7 +2,7 @@
 
 Trade Adjustment Assistance Community College & Career Training
 
-https://profiles.open4us.org/taaccct/
+https://taaccct.open4us.org/
 
 
 ## Overview
